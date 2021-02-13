@@ -19,4 +19,3 @@
 
 # LSP 어플 도난방지 사이렌
 ![siren_gif](https://user-images.githubusercontent.com/47880131/107838524-8f111100-6de9-11eb-8037-80a86d0a6fe6.gif)
-<
