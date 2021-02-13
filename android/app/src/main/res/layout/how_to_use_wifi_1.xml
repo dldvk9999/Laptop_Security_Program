@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#00000000">
+
+    <ImageView
+    android:id="@+id/image"
+    android:layout_width="wrap_content"
+    android:layout_height="250sp"
+    android:src="@drawable/wifi_setting"
+    tools:ignore="ContentDescription" />
+
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/image2"
+        android:layout_width="wrap_content"
+        android:layout_height="200sp"
+        android:src="@drawable/lspapp_wifi_setting"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="▶ 사진과 같이 LSP 프로그램에서 WIFI 탭 - WIFI 연계 버튼을 눌러 나오는 IP를 확인합니다."
+        android:textColor="#000"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="▶ LSP APP - 메뉴 - WIFI - WIFI Setting에서 확인한 IP를 입력하여 연동을 합니다."
+        android:textColor="#000"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="▶ WIFI의 상태를 확인하고싶으시면 WIFI메뉴에 WIFI Log를 확인하시면 됩니다."
+        android:textColor="#000"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

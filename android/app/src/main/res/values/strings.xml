@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BluetoothClient</string>
+
+    <string name="inputDataLabel">Input message</string>
+    <string name="connectLabel">Connect with Bluetooth</string>
+    <string name="closeConnectionLabel">Close</string>
+    <string name="sendDataLabel">Send message</string>
+    <string name="InputMessage">메시지 입력</string>
+    <string name="ConnectDevice">연결된 디바이스 :</string>
+    <string name="CommandList">명령어 목록</string>
+    <string name="lock_"><![CDATA[-> LSP 프로그램 바로 잠금]]></string>
+    <string name="lock">ⅰ) lock</string>
+    <string name="other">ⅱ) 그 외 메시지</string>
+    <string name="other_"><![CDATA[-> 로그 메시지로 출력]]></string>
+    <string name="developers">Developers</string>
+    <string name="voice_recognition">Voice Recognition</string>
+    <string name="password_recognition">Password recognition</string>
+    <string name="how_to_use">How to use</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="wifi_setting">WIFI Setting</string>
+    <string name="wifi_log">WIFI Log</string>
+    <string name="wifi">WIFI</string>
+    <string name="wifi_close">WIFI Close</string>
+    <string name="ip_addr">ex) 192.168.xxx.xxx</string>
+    <string name="disconnect_wifi">사용자 노트북과\n와이파이 연결이 끊겼습니다!!!</string>
+    <string name="push_close">확인을 눌러야 진동이 해제됩니다.</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/how_to_use"
+        android:id="@+id/How_to_use" >
+        <menu>
+            <item
+                android:title="@string/bluetooth"
+                android:id="@+id/Use_Bluetooth" />
+            <item
+                android:title="@string/voice_recognition"
+                android:id="@+id/Use_Voice_Recognition" />
+            <item
+                android:title="@string/password_recognition"
+                android:id="@+id/Use_Password_Recognition" />
+            <item
+                android:title="@string/wifi"
+                android:id="@+id/Use_WIFI" />
+        </menu>
+    </item>
+
+    <item
+        android:title="@string/wifi">
+        <menu>
+            <item
+                android:title="@string/wifi_setting"
+                android:id="@+id/Wifi" />
+
+            <item
+                android:title="@string/wifi_log"
+                android:id="@+id/Wifi_log"  />
+
+            <item
+                android:title="@string/wifi_close"
+                android:id="@+id/wifi_close" />
+
+        </menu>
+    </item>
+
+    <item
+        android:title="@string/developers"
+        android:id="@+id/developer"/>
+
+</menu>
